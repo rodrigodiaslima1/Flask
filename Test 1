@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Excersice Title</title>
+</head>
+<body>
+
+    <h1>Welcome to my Website!</h1>
+    <p>I'm excited to eventually learn Flask!</p>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/">Here is a link to the official Flask Website</a>
+    <p>Here is a picture of a Puppy from Unsplash:</p>
+
+    <img src="https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=694&q=80" alt="">
+    
+    <p>Here are three reasons Flask is cool:</p>
+    <ol>
+        <li>Very Simple</li>
+        <li>Lots of available add ons</li>
+        <li>Create a website in a few minutes</li>
+    </ol>
+
+    <h1><strong>Bonus: Optional Extra Credit</strong></h1>
+    <p>Can you figure out how to make a picture link?</p>
+
+    <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt=""></a>
+
+</body>
+</html>
