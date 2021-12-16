@@ -24,4 +24,3 @@ If it makes sense to you, please, follow my work:
 
 <h4><em>Type Voracious Code!</em></h4>
 <h4>Rodrigo Dias Lima</h4>
-<img src="https://static.wixstatic.com/media/920314_ac833fc044754946a8f01d51f0193b83~mv2.jpg/v1/fill/w_85,h_45,al_c,q_80,usm_0.66_1.00_0.01/tvvvvc%20-%20logo%202_edited.webp" width="70">
