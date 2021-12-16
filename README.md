@@ -1,6 +1,6 @@
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" width="100">
-<h1>Tvc Computers - Flask Repository</h1>
+<h1>Flask Repository</h1>
 
 <em>"This repository is dedicated to Flask work."</em>
 <p>---</p>
